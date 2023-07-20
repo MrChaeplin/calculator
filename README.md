@@ -1,4 +1,5 @@
-// Lv 2. calculator
+# Lv 2. calculator
+
 class Calculator {
      var result: Double = 0
 
